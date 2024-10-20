@@ -1,4 +1,4 @@
-# 🌍 Tourist Place Explorer
+# 🌍 Tourist Place Explorer:
 
 **An interactive web application to search, explore, and learn about top tourist destinations using React!** 
 
@@ -9,8 +9,8 @@
 ## 🎯 **Overview**
 
 This project provides users with a seamless experience to:
--in this project we wanted to organise travel blogs and reviews by local people that helps us discover the unseen places and localities .
--sorted the places as per user interest.
+-in this project we wanted to organise travel blogs and reviews by local people that helps us discover the unseen places, localities,food joints etc which you may other miss .
+-we wanted to organise the reviews and blogs by the region so when you search a particular region you find all travel blogs regarding that region.
 
 ---
 
