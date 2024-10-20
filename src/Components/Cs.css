@@ -1,0 +1,25 @@
+.carousel-img {
+    height: 500px !important;
+    border: 10px solid rgb(110, 101, 101);
+    border-radius: 10px;
+  }
+  .carousel-fade .carousel-item {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out; /* Transition for fading effect */
+  }
+  
+  .carousel-fade .carousel-item.active,
+  .carousel-fade .carousel-item-next,
+  .carousel-fade .carousel-item-prev {
+    opacity: 1;
+  }
+  
+  .carousel-fade .carousel-item-next,
+  .carousel-fade .carousel-item-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  

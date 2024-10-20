@@ -1,0 +1,50 @@
+/* Basic Styles */
+.content-wrapper {
+  margin-top: 20px;
+}
+
+.content-border {
+  border: 5px solid black; /* Thick black border around both panels */
+  display: flex;
+}
+
+.left-panel {
+  padding: 20px;
+  height: 100%; /* Ensure full height */
+  
+}
+
+.searchbar-container {
+  width: 1000px; /* Fixed width for the search bar */
+  margin: 0 auto; /* Center the search bar */
+}
+
+.carousel-wrapper {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center; /* Center the carousel */
+}
+
+.carousel {
+  width: 500px; /* Set a fixed width for the carousel */
+  overflow: hidden; /* Hide overflow to prevent stretching */
+}
+
+.right-panel {
+  padding: 20px;
+  text-align: center;
+  border: 5px solid black;
+}
+
+.hotels-list-wrapper {
+  margin-top: 20px;
+}
+
+.hotel-item {
+  margin-bottom: 20px;
+}
+
+.trending-posts-wrapper {
+  
+  margin-top: 20px;
+}

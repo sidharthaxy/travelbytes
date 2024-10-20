@@ -1,0 +1,41 @@
+/* PlaceDetails.css */
+.place-details-container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .place-name {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .details-layout {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .place-image-container {
+    flex: 1 1 300px;
+  }
+  
+  .place-image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .place-details {
+    flex: 2 1 500px;
+  }
+  
+  .place-details p {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+  }
+  

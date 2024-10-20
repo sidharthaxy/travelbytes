@@ -1,0 +1,26 @@
+/* Footer.css */
+.footer {
+    background-color: #7b650cde;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position:relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .footer-links {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    margin: 10px 0;
+  }
+  
+  .footer-image img {
+    width: 150px;
+    margin-top: 10px;
+  }
+  

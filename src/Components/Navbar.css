@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+
+    justify-content: center ; 
+    padding: 3px;
+    background-color: #051424;
+  }
+  .planelogo{
+    width: 70px;
+  }
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-links li a:hover {
+    color: #b3d1ff;
+  }
+  
